@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Marc-Alexandre Côté" />
+    <meta name="description" content="Page personnelle." />
+
+    <title>UdeS - Marc-Alexandre Côté - Projets</title>
+
+    <!-- to correct the unsightly Flash of Unstyled Content. http://www.bluerobot.com/web/css/fouc.asp -->
+    <script type="text/javascript"></script>
+
+    <style type="text/css" media="all">
+        @import "./css/css.css";
+    </style>
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21618213-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+
+</head>
+
+<body id="css-zen-garden">
+
+<div id="container">
+    <div id="intro">
+        <div id="pagePreHeader"></div>
+        <div id="pageHeader">
+            <div id="frame">
+                <div id="portrait">
+                    <img src="./images/me.jpg" alt="Marc-Alexandre Côté" />
+                </div>
+            </div>
+            <h1>Marc-Alexandre Côté</h1>
+            <h2>Université de Sherbrooke</h2>
+            <h2>819-821-8000 #63777</h2>
+            <h2 id="email">
+                <a href="mailto:Marc-Alexandre.Cote@USherbrooke.ca">Marc-Alexandre.Cote@USherbrooke.ca</a>
+            </h2>
+        </div>
+
+        <div id="menu">
+			<ul>
+				<li><a href="./accueil.html">Accueil</a></li>
+				<li><a href="./cours.html">Cours</a></li>
+				<li><a href="./publications.html">Publications</a></li>
+				<li class="current_page_item"><a href="./projets.html">Projets</a></li>
+                <li><a href="./bio.html">Bio</a></li>
+			</ul>
+		</div>
+
+        <div id="quickSummary">
+            <p class="title">Projets</p>
+        </div>
+
+    </div>
+
+    <div id="supportingText">
+
+        <div class="content" id="camus">
+            <h3 class="annee">
+                <a href="./projects/camus/doc/CamUS.pdf" title="PDF"><img src="./images/pdf.png" alt="PDF" /></a>
+                <a href="./projects/camus/" title="Téléchargement"><img src="./images/download.png" alt="Téléchargement" /></a>
+                [2010]
+            </h3>
+            <h3>CamUS : Planification d'une caméra intéractive</h3>
+            <p>Réalisé dans le cadre du cours IFT702</p>
+            <p>Le problème de planification de caméra est énoncé comme un processus de décision markovien</p>
+            <br />
+            <div class="authors">
+                <a href="http://planiart.usherbrooke.ca/~julien" >Julien Filion</a><br />
+                <a href="http://pages.usherbrooke.ca/mcote5" >Marc-Alexandre Côté</a>
+            </div>
+        </div>
+
+        <div class="content" id="feedus">
+            <h3 class="annee">
+                <a href="./projects/feedus/doc/FeedUS.pdf" title="PDF"><img src="./images/pdf.png" alt="PDF" /></a>
+                <a href="./projects/feedus/" title="Téléchargement"><img src="./images/download.png" alt="Téléchargement" /></a>
+                [2010]
+            </h3>
+            <h3>FeedUS : Classification de flux RSS</h3>
+            <p>Réalisé dans le cadre du cours IFT603</p>
+            <p>Recommandation d'article basée sur les préférences de l'utilisateur</p>
+            <p>Classification par différentes méthodes</p>
+            <ul>
+                <li>K-NN</li>
+                <li>Random Forest</li>
+                <li>Réseau bayésien naïf</li>
+            </ul>
+
+            <p>
+                Clustering à l'aide de la méthode Bisecting K-Means
+            </p>
+            <br />
+            <div class="authors">
+                <a href="http://planiart.usherbrooke.ca/~julien" >Julien Filion</a><br />
+                <a href="http://pages.usherbrooke.ca/mcote5" >Marc-Alexandre Côté</a><br />
+                <a href="mailto:simon.renaud-deputter@usherbrooke.ca" >Simon Renaud-Deputter</a>
+            </div>
+        </div>
+
+        <div class="content" id="pokus">
+            <h3 class="annee">
+                <a href="./projects/pokus/doc/PokUS.pdf" title="PDF"><img src="./images/pdf.png" alt="PDF" /></a>
+                <a href="./projects/pokus/" title="Téléchargement"><img src="./images/download.png" alt="Téléchargement" /></a>
+                [2009]
+            </h3>
+            <h3>PokUS : Système d'aide au Poker</h3>
+            <p>Réalisé dans le cadre des cours IFT592 et IFT593</p>
+            <p>Jeu de Poker Texas Hold'em</p>
+            <ul>
+                <li>Architecture client/serveur</li>
+                <li>Permet de jouer contre des joueurs artificiels</li>
+            </ul>
+            <p>Aide le joueur en fournissant de l'information supplémentaire</p>
+            <ul>
+                <li>Statistique sur les adversaires</li>
+                <li>Profil des adversaires</li>
+                <li>Chance de gagner la partie</li>
+                <li>Suggestion d'une action à prendre grâce à un Support Vector Machine </li>
+            </ul>
+            <p>
+                Un projet inspiré de celui-ci est disponible sur Google Code à l'adresse suivante&nbsp;
+                <a href="http://code.google.com/p/bluffin-muffin/">http://code.google.com/p/bluffin-muffin/</a>
+            </p>
+            <br />
+            <div class="authors">
+                <a href="http://planiart.usherbrooke.ca/~julien" >Julien Filion</a><br />
+                <a href="http://pages.usherbrooke.ca/mcote5" >Marc-Alexandre Côté</a><br />
+                <a href="mailto:simon.renaud-deputter@usherbrooke.ca" >Simon Renaud-Deputter</a>
+            </div>
+        </div>
+
+        <div class="content" id="marious">
+            <h3 class="annee">
+                <a href="http://www.youtube.com/watch?v=JhTNE_UwI7Y" title="view"><img src="./images/view.png" alt="view" /></a>
+                <a href="./projects/marious/doc/MarioUS.pdf" title="PDF"><img src="./images/pdf.png" alt="PDF" /></a>
+                <a href="./projects/marious/" title="Téléchargement"><img src="./images/download.png" alt="Téléchargement" /></a>
+                [2009]
+            </h3>
+            <h3>MarioUS : Joueur intelligent</h3>
+            <p>Réalisé dans le cadre des cours IFT615 et IFT630</p>
+            <p>Apprentissage automatique d'un niveau du jeu de Mario Bros à l'aide d'un algorithme génétique</p>
+            <p>Parallélisation de l'algorithme en MPI</p>
+            <br />
+            <div class="authors">
+                <a href="http://pages.usherbrooke.ca/ggirard" >Gabriel Girard</a><br />
+                <a href="http://pages.usherbrooke.ca/mcote5" >Marc-Alexandre Côté</a><br />
+                <a href="mailto:simon.renaud-deputter@usherbrooke.ca" >Simon Renaud-Deputter</a>
+            </div>
+        </div>
+
+        <div id="footer">
+            <a href="http://validator.w3.org/check/referer" title="Check the validity of this site&#8217;s XHTML">XHTML</a> &nbsp;
+            <a href="http://jigsaw.w3.org/css-validator/check/referer" title="Check the validity of this site&#8217;s CSS">CSS</a>
+        </div>
+
+    </div>
+
+    <div id="linkList">
+		<div id="linkList2">
+			<div class="lselect">
+				<h3>Sections:</h3>
+				<ul>
+					<li><a href="#camus">CamUS</a></li>
+					<li><a href="#feedus">FeedUS</a></li>
+                    <li><a href="#pokus">PokUS</a></li>
+                    <li><a href="#marious">MarioUS</a></li>
+				</ul>
+			</div>
+
+            <div class="lselect">
+				<h3>Collègues:</h3>
+                <ul>
+                    <li><a href="http://www.dmi.usherb.ca/~larocheh/">Hugo Larochelle</a> - <span class="c">Directeur</span></li>
+                    <li><a href="http://www.dmi.usherb.ca/~descotea/">Maxime Descoteaux</a> - <span class="c">Codirecteur</span></li>
+                    <li><a href="http://pages.usherbrooke.ca/ggirard">Gabriel Girard</a> - <a class="c" href="http://moivre.usherbrooke.ca/">MoIVRe</a></li>
+                    <li><a href="http://planiart.usherbrooke.ca/~julien/">Julien Filion</a> - <a class="c" href="http://planiart.usherbrooke.ca/">PlanIArt</a></li>
+                    <li><a href="http://pages.usherbrooke.ca/vducharme/">Vincent Ducharme</a> - <a class="c" href="http://moivre.usherbrooke.ca/">MoiVRe</a></li>
+                    <li><a href="http://pages.usherbrooke.ca/mchamberland2/">Maxime Chamberland</a> - <a class="c" href="http://moivre.usherbrooke.ca/">MoIVRe</a></li>
+                    <li><a href="http://pages.usherbrooke.ca/mbernier2/">Michael Bernier</a> - <a class="c" href="http://moivre.usherbrooke.ca/">MoIVRe</a></li>
+                </ul>
+			</div>
+
+			<div class="lselect">
+				<h3>Ressources:</h3>
+				<ul>
+					<li><a href="./projects.html">English</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+<!-- Add a background image to each and use width and height to control sizing, place with absolute positioning -->
+<div id="extraDiv1"></div><div id="extraDiv2"></div><div id="extraDiv3"></div>
+<div id="extraDiv4"></div><div id="extraDiv5"></div><div id="extraDiv6"></div>
+
+</body>
+</html>
