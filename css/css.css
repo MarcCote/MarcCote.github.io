@@ -6,7 +6,8 @@
 
 
 /* ie5 win - grrr - start */
-body {
+body
+ {
     font: small serif;
     margin: 0px; 
     padding: 0px; 
@@ -21,7 +22,8 @@ body {
 /* ie5 win - grrr - end */
  
 /* opera - grrr - start */
-html>body {
+html>body
+ {
     font-size: small;
 }
 /* opera - grrr - end */
@@ -29,7 +31,8 @@ html>body {
 
 /* start of the real css */
 /* basic elements */
-body {
+body
+ {
     color: #444; 
     background-color: #edf6e3;
     background-image: url(../images/bg.jpg);
@@ -465,4 +468,8 @@ img {
     padding: 0px 0px 0px 10px;
 	margin: 0px 0px 0px 10px;
     font-family: Cochin, Georgia, "New Century Schoolbook", "Bitstream Vera Serif", "Times New Roman", times, serif; 
+}
+
+.content li{
+    padding: 0px 0px 10px 0px;
 }
