@@ -423,7 +423,7 @@ img {
 }
 
 .lselect {
-    background-image: url(../leaf_09a.gif);
+    /*background-image: url(../leaf_09a.gif);*/
     background-position: bottom center;
     background-repeat: no-repeat;
     background-color: #fff;
@@ -470,6 +470,6 @@ img {
     font-family: Cochin, Georgia, "New Century Schoolbook", "Bitstream Vera Serif", "Times New Roman", times, serif; 
 }
 
-.content li{
+.publications li{
     padding: 0px 0px 10px 0px;
 }
