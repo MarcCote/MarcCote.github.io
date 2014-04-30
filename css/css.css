@@ -1,4 +1,4 @@
-/* Inspired by: css Zen Garden submission 118 - 'Some Leafs', by Michael Tupy, http://www.t-2.at/ */
+/* Inspired by css Zen Garden submission 118 - 'Some Leafs', by Michael Tupy, http://www.t-2.at/ */
 /* Created: Frebruary 14th, 2011 */
 
 /* tested with: */
@@ -47,7 +47,7 @@ body
 }
 
 p {
-    font-size: 11px; 
+    
     line-height: 14px;
     font-family: Cochin, Georgia, "New Century Schoolbook", "Bitstream Vera Serif", "Times New Roman", times, serif; 
     text-align: left; 
