@@ -43,6 +43,7 @@
 	    <li><a href="./tutoriel_python.html#classes">Classes</a></li>
 	    <li><a href="./tutoriel_python.html#numpy">Numpy</a></li>
 	    <li><a href="./tutoriel_python.html#debugger">Débogueur</a></li>
+        <li><a href="./tutoriel_python.html#IDE">Environnement de développement (IDE)</a></li>
 	  </ul>
 	  </div>
 
@@ -1704,7 +1705,7 @@ In bla(): b = 5</pre>
 	      décrites dans ce tutoriel.</p>
 
 	    <p>La librairie standard se trouve à l'adresse
-	    suivante: <a href="http://docs.python.org/release/2.6.5/library/index.html">http://docs.python.org/release/2.6.5/library/index.html</a>. Il
+	    suivante: <a href="http://docs.python.org/release/2.7.3/library/index.html">http://docs.python.org/release/2.7.3/library/index.html</a>. Il
 	    est <b>fortement</b> recommandé de la consulter avant
 	    d'implémenter soi-même toute fonction ou structure de données
 	    nécessaire, puisqu'elle pourrait déjà être présente dans la
@@ -2119,7 +2120,7 @@ In bla(): b = 5</pre>
 	    comme en C++. Par contre, ceci n'empêche pas deux
 	    variables de référer au même objet en mémoire. En fait,
 	    l'assignation d'instances de classes à des variables ne
-	    crée pas de copies des instances. Ces variables pointeront
+	    crée pas de copies des instances. Ces variables référeront
 	    plutôt vers le même espace mémoire:</p>
 <pre><span class="gp">&gt;&gt;&gt; </span><span class="n">a = Bag()</span>
 <span class="gp">&gt;&gt;&gt; </span><span class="n">b = a</span>
@@ -2134,8 +2135,7 @@ In bla(): b = 5</pre>
 	  <p> Par défaut, l'opérateur  <tt class="docutils
 	  literal"><span class="pre">==</span></tt>
 	  vérifie si les variables font références à la même instance
-	  de classe (on pourrait dire "pointent" vers le même
-	  objet). </p>
+	  de classe (c.-à-d. réfèrent au même objet). </p>
 
 
 	  <a name="numpy"><h1>Numpy</h1></a>
@@ -2192,8 +2192,8 @@ dtype('float64') </pre>
       
       <pre><span class="gp">&gt;&gt;&gt;</span> b = array([ (<span class="mf">1.5</span>,<span class="mf">2</span>,<span class="mf">3</span>), (<span class="mf">4</span>,<span class="mf">5</span>,<span class="mf">6</span>) ])
 <span class="gp">&gt;&gt;&gt;</span> b
-array([[ <span class="mf">1.5</span>,  <span class="mf">2.</span> ,  <span class="mf">3.</span> ],
-       [ <span class="mf">4.</span> ,  <span class="mf">5.</span> ,  <span class="mf">6.</span> ]])</pre>
+array([[ <span class="mf">1.5</span>,  <span class="mf">2.</span>,  <span class="mf">3.</span> ],
+      [ <span class="mf">4.</span>,  <span class="mf">5.</span>,  <span class="mf">6.</span> ]])</pre>
       
       <p>Le type de données peut également être spécifié à la
       création. Par défaut, il est automatiquement détecté. Ici, on
@@ -2735,7 +2735,18 @@ a+a avec des Numpy: 0.0159249305725 secondes</pre>
 	    Pour plus d'information sur le débogueur Python, visiter <a href="http://docs.python.org/library/pdb.html">http://docs.python.org/library/pdb.html</a>.
 	  </p>
 
- 	</div>
+
+    <a name="IDE"><h2>Environnement de développement (IDE)</h2> </a>
+        <ul>
+            <li>PyDev (Plugin pour Eclipse) [<a href="http://pydev.org/">http://pydev.org/</a>]</li>
+            <li>Spyder [<a href="https://pythonhosted.org/spyder/">https://pythonhosted.org/spyder/</a>]</li>
+            <li>Canopy [<a href="https://www.enthought.com/products/canopy/">https://www.enthought.com/products/canopy/</a>]</li>
+            <li>Pycharm [<a href="http://www.jetbrains.com/pycharm/">http://www.jetbrains.com/pycharm/</a>]</li>
+            <li>Sublime Text [<a href="http://www.sublimetext.com/">http://www.sublimetext.com/</a>]</li>
+      </ul>
+
+
+    </div>
       </div>
     </div>
   
