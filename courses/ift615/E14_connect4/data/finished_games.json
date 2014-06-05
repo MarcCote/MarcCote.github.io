@@ -1,0 +1,506 @@
+[
+    {
+        "game_file": "/data/games/canl1804_delp3002.json",
+        "player1": "canl1804",
+        "player2": "delp3002",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/delp3002_canl1804.json",
+        "player1": "delp3002",
+        "player2": "canl1804",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/canl1804_desa1610.json",
+        "player1": "canl1804",
+        "player2": "desa1610",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/desa1610_canl1804.json",
+        "player1": "desa1610",
+        "player2": "canl1804",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/canl1804_duqz2001.json",
+        "player1": "canl1804",
+        "player2": "duqz2001",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/duqz2001_canl1804.json",
+        "player1": "duqz2001",
+        "player2": "canl1804",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/canl1804_dutf1902.json",
+        "player1": "canl1804",
+        "player2": "dutf1902",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/dutf1902_canl1804.json",
+        "player1": "dutf1902",
+        "player2": "canl1804",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/canl1804_them2309.json",
+        "player1": "canl1804",
+        "player2": "them2309",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/them2309_canl1804.json",
+        "player1": "them2309",
+        "player2": "canl1804",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/canl1804_Secret.json",
+        "player1": "canl1804",
+        "player2": "Secret",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/Secret_canl1804.json",
+        "player1": "Secret",
+        "player2": "canl1804",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/delp3002_canl1804.json",
+        "player1": "delp3002",
+        "player2": "canl1804",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/canl1804_delp3002.json",
+        "player1": "canl1804",
+        "player2": "delp3002",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/delp3002_desa1610.json",
+        "player1": "delp3002",
+        "player2": "desa1610",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/desa1610_delp3002.json",
+        "player1": "desa1610",
+        "player2": "delp3002",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/delp3002_duqz2001.json",
+        "player1": "delp3002",
+        "player2": "duqz2001",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/duqz2001_delp3002.json",
+        "player1": "duqz2001",
+        "player2": "delp3002",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/delp3002_dutf1902.json",
+        "player1": "delp3002",
+        "player2": "dutf1902",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/dutf1902_delp3002.json",
+        "player1": "dutf1902",
+        "player2": "delp3002",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/delp3002_them2309.json",
+        "player1": "delp3002",
+        "player2": "them2309",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/them2309_delp3002.json",
+        "player1": "them2309",
+        "player2": "delp3002",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/delp3002_Secret.json",
+        "player1": "delp3002",
+        "player2": "Secret",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/Secret_delp3002.json",
+        "player1": "Secret",
+        "player2": "delp3002",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/desa1610_canl1804.json",
+        "player1": "desa1610",
+        "player2": "canl1804",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/canl1804_desa1610.json",
+        "player1": "canl1804",
+        "player2": "desa1610",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/desa1610_delp3002.json",
+        "player1": "desa1610",
+        "player2": "delp3002",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/delp3002_desa1610.json",
+        "player1": "delp3002",
+        "player2": "desa1610",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/desa1610_duqz2001.json",
+        "player1": "desa1610",
+        "player2": "duqz2001",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/duqz2001_desa1610.json",
+        "player1": "duqz2001",
+        "player2": "desa1610",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/desa1610_dutf1902.json",
+        "player1": "desa1610",
+        "player2": "dutf1902",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/dutf1902_desa1610.json",
+        "player1": "dutf1902",
+        "player2": "desa1610",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/desa1610_them2309.json",
+        "player1": "desa1610",
+        "player2": "them2309",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/them2309_desa1610.json",
+        "player1": "them2309",
+        "player2": "desa1610",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/desa1610_Secret.json",
+        "player1": "desa1610",
+        "player2": "Secret",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/Secret_desa1610.json",
+        "player1": "Secret",
+        "player2": "desa1610",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/duqz2001_canl1804.json",
+        "player1": "duqz2001",
+        "player2": "canl1804",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/canl1804_duqz2001.json",
+        "player1": "canl1804",
+        "player2": "duqz2001",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/duqz2001_delp3002.json",
+        "player1": "duqz2001",
+        "player2": "delp3002",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/delp3002_duqz2001.json",
+        "player1": "delp3002",
+        "player2": "duqz2001",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/duqz2001_desa1610.json",
+        "player1": "duqz2001",
+        "player2": "desa1610",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/desa1610_duqz2001.json",
+        "player1": "desa1610",
+        "player2": "duqz2001",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/duqz2001_dutf1902.json",
+        "player1": "duqz2001",
+        "player2": "dutf1902",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/dutf1902_duqz2001.json",
+        "player1": "dutf1902",
+        "player2": "duqz2001",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/duqz2001_them2309.json",
+        "player1": "duqz2001",
+        "player2": "them2309",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/them2309_duqz2001.json",
+        "player1": "them2309",
+        "player2": "duqz2001",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/duqz2001_Secret.json",
+        "player1": "duqz2001",
+        "player2": "Secret",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/Secret_duqz2001.json",
+        "player1": "Secret",
+        "player2": "duqz2001",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/dutf1902_canl1804.json",
+        "player1": "dutf1902",
+        "player2": "canl1804",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/canl1804_dutf1902.json",
+        "player1": "canl1804",
+        "player2": "dutf1902",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/dutf1902_delp3002.json",
+        "player1": "dutf1902",
+        "player2": "delp3002",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/delp3002_dutf1902.json",
+        "player1": "delp3002",
+        "player2": "dutf1902",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/dutf1902_desa1610.json",
+        "player1": "dutf1902",
+        "player2": "desa1610",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/desa1610_dutf1902.json",
+        "player1": "desa1610",
+        "player2": "dutf1902",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/dutf1902_duqz2001.json",
+        "player1": "dutf1902",
+        "player2": "duqz2001",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/duqz2001_dutf1902.json",
+        "player1": "duqz2001",
+        "player2": "dutf1902",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/dutf1902_them2309.json",
+        "player1": "dutf1902",
+        "player2": "them2309",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/them2309_dutf1902.json",
+        "player1": "them2309",
+        "player2": "dutf1902",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/dutf1902_Secret.json",
+        "player1": "dutf1902",
+        "player2": "Secret",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/Secret_dutf1902.json",
+        "player1": "Secret",
+        "player2": "dutf1902",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/them2309_canl1804.json",
+        "player1": "them2309",
+        "player2": "canl1804",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/canl1804_them2309.json",
+        "player1": "canl1804",
+        "player2": "them2309",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/them2309_delp3002.json",
+        "player1": "them2309",
+        "player2": "delp3002",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/delp3002_them2309.json",
+        "player1": "delp3002",
+        "player2": "them2309",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/them2309_desa1610.json",
+        "player1": "them2309",
+        "player2": "desa1610",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/desa1610_them2309.json",
+        "player1": "desa1610",
+        "player2": "them2309",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/them2309_duqz2001.json",
+        "player1": "them2309",
+        "player2": "duqz2001",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/duqz2001_them2309.json",
+        "player1": "duqz2001",
+        "player2": "them2309",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/them2309_dutf1902.json",
+        "player1": "them2309",
+        "player2": "dutf1902",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/dutf1902_them2309.json",
+        "player1": "dutf1902",
+        "player2": "them2309",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/them2309_Secret.json",
+        "player1": "them2309",
+        "player2": "Secret",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/Secret_them2309.json",
+        "player1": "Secret",
+        "player2": "them2309",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/Secret_canl1804.json",
+        "player1": "Secret",
+        "player2": "canl1804",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/canl1804_Secret.json",
+        "player1": "canl1804",
+        "player2": "Secret",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/Secret_delp3002.json",
+        "player1": "Secret",
+        "player2": "delp3002",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/delp3002_Secret.json",
+        "player1": "delp3002",
+        "player2": "Secret",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/Secret_desa1610.json",
+        "player1": "Secret",
+        "player2": "desa1610",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/desa1610_Secret.json",
+        "player1": "desa1610",
+        "player2": "Secret",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/Secret_duqz2001.json",
+        "player1": "Secret",
+        "player2": "duqz2001",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/duqz2001_Secret.json",
+        "player1": "duqz2001",
+        "player2": "Secret",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/Secret_dutf1902.json",
+        "player1": "Secret",
+        "player2": "dutf1902",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/dutf1902_Secret.json",
+        "player1": "dutf1902",
+        "player2": "Secret",
+        "win": true
+    },
+    {
+        "game_file": "/data/games/Secret_them2309.json",
+        "player1": "Secret",
+        "player2": "them2309",
+        "win": false
+    },
+    {
+        "game_file": "/data/games/them2309_Secret.json",
+        "player1": "them2309",
+        "player2": "Secret",
+        "win": true
+    }
+]

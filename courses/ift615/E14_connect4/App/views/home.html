@@ -1,0 +1,31 @@
+﻿<section>
+    <h2>Current Game</h2>
+    <div data-bind="compose: { model: { game: game, showControls: false }, view:'views/games/_game' }"></div>
+</section>
+<section>
+    <h2>Current rankings</h2>
+    <table class="table table-striped table-bordered table-hover ranking">
+        <thead>
+            <tr >
+                <th>Rank</th>
+                <th>Player</th>
+                <th>Wins</th>
+                <th>Ties</th>
+                <th>Losses</th>
+                <th>Game Played</th>
+                <th>Score</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: rankings">
+            <tr>
+                <td class="rank" data-bind="text: $index() + 1"></td>
+                <td data-bind="text: player_name"></td>
+                <td data-bind="text: nb_wins"></td>
+                <td data-bind="text: nb_ties"></td>
+                <td data-bind="text: nb_losses"></td>
+                <td data-bind="text: game_played"></td>
+                <td data-bind="text: score"></td>
+            </tr>
+        </tbody>
+    </table>
+</section>

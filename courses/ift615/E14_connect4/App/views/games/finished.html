@@ -1,0 +1,17 @@
+﻿<section>
+    <h2>Finished games</h2>
+    <ul class="finished-games-players span7" data-bind="foreach: finishedGames">
+        <li class="well row">
+            <div class="span3">
+                <h2 data-bind="text: player + ' vs.'"></h2>
+            </div>
+            <ul class="games span3" data-bind="foreach: games">
+                <li class="finished-game-row">
+                    <span data-bind="text: opponent"></span>
+                    (winner: <span data-bind="text: game.winner"></span>)
+                    <a data-bind="attr: { href: '#/games/' + encodeURIComponent(game.game_file()) }">View</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</section>

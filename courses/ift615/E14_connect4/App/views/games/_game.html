@@ -1,0 +1,35 @@
+<h3>
+	<span data-bind="text: game().player1"></span> <span class="board-player1"></span>
+	vs.
+	<span data-bind="text: game().player2"></span> <span class="board-player2"></span>
+</h3>
+<div class="row game-container">
+	<div class="span board-wrapper">
+		<table class="table table-bordered board">
+			<tbody data-bind="foreach: game().board">
+			    <tr data-bind="foreach: columns">
+			        <td class="board-cell">
+			        	<span data-bind="attr: { class: 'board-' + value() }"></span>
+			        </td>
+			    </tr>
+			</tbody>
+		</table>
+		<div class="controls" data-bind="if: showControls">
+			<button class="btn beginning" data-bind="click: function() { game().first_move(); }"><i class="icon icon-fast-backward"></i></button>
+			<button class="btn previous" data-bind="click: function() { game().previous_move(); }"><i class="icon icon-step-backward"></i></button>
+			<button class="btn next" data-bind="click: function() { game().next_move(); }"><i class="icon icon-step-forward"></i></button>
+			<button class="btn end" data-bind="click: function() { game().last_move(); }"><i class="icon icon-fast-forward"></i></button>
+		</div>
+	</div>
+	<div class="span moves">
+		<ol data-bind="foreach: game().moves">
+			<li data-bind="active: $element.scrollIntoView(false), css: {active: active, invalid: $data.message() != null }">
+				<span data-bind="text: $index() % 2 == 0 ? $root.game().player1() : $root.game().player2()"></span>
+				[col: <span data-bind="text: column"></span>]
+				(time: <span data-bind="text: time"></span>s)
+			</li>
+		</ol>
+		<div class="move-message" data-bind="text: game().message()"></div>
+	</div>
+</div>
+<h4>Winnah!: <span data-bind='text: game().winner'></span></h4>
