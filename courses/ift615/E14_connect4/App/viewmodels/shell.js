@@ -6,7 +6,7 @@
             return router.activate('home');
         }
     };
-    window.base_url = ""
+    window.base_url = "./courses/ift615/E14_connect4/"
     window.vm = function() {
     	return shell.router.activeItem();
     }
