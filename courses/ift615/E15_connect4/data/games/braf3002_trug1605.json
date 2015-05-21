@@ -1,0 +1,67 @@
+{
+    "moves": [
+        {
+            "column": 1,
+            "message": null,
+            "row": 5,
+            "time": 31.0
+        },
+        {
+            "column": 3,
+            "message": null,
+            "row": 5,
+            "time": 0.1
+        },
+        {
+            "column": 1,
+            "message": null,
+            "row": 4,
+            "time": 30.3
+        },
+        {
+            "column": 1,
+            "message": null,
+            "row": 3,
+            "time": 0.1
+        },
+        {
+            "column": 1,
+            "message": null,
+            "row": 2,
+            "time": 29.9
+        },
+        {
+            "column": 4,
+            "message": null,
+            "row": 5,
+            "time": 0.1
+        },
+        {
+            "column": 1,
+            "message": null,
+            "row": 1,
+            "time": 29.6
+        },
+        {
+            "column": 5,
+            "message": null,
+            "row": 5,
+            "time": 0.1
+        },
+        {
+            "column": 1,
+            "message": null,
+            "row": 0,
+            "time": 29.9
+        },
+        {
+            "column": 6,
+            "message": null,
+            "row": 5,
+            "time": 0.1
+        }
+    ],
+    "player1": "braf3002",
+    "player2": "trug1605",
+    "win": false
+}
