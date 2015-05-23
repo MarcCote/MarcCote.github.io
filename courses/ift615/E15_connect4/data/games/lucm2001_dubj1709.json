@@ -1,0 +1,85 @@
+{
+    "moves": [
+        {
+            "column": 3,
+            "message": null,
+            "row": 5,
+            "time": 27.0
+        },
+        {
+            "column": 3,
+            "message": null,
+            "row": 4,
+            "time": 29.6
+        },
+        {
+            "column": 3,
+            "message": null,
+            "row": 3,
+            "time": 27.1
+        },
+        {
+            "column": 2,
+            "message": null,
+            "row": 5,
+            "time": 29.7
+        },
+        {
+            "column": 3,
+            "message": null,
+            "row": 2,
+            "time": 27.1
+        },
+        {
+            "column": 3,
+            "message": null,
+            "row": 1,
+            "time": 29.7
+        },
+        {
+            "column": 2,
+            "message": null,
+            "row": 4,
+            "time": 27.1
+        },
+        {
+            "column": 2,
+            "message": null,
+            "row": 3,
+            "time": 29.6
+        },
+        {
+            "column": 2,
+            "message": null,
+            "row": 2,
+            "time": 27.1
+        },
+        {
+            "column": 4,
+            "message": null,
+            "row": 5,
+            "time": 29.6
+        },
+        {
+            "column": 4,
+            "message": null,
+            "row": 4,
+            "time": 27.1
+        },
+        {
+            "column": 4,
+            "message": null,
+            "row": 3,
+            "time": 29.6
+        },
+        {
+            "column": 5,
+            "message": null,
+            "row": 5,
+            "time": 19.0
+        }
+    ],
+    "player1": "lucm2001",
+    "player2": "dubj1709",
+    "win": true
+}

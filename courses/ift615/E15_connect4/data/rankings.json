@@ -1,56 +1,62 @@
 [
     {
-        "nb_losses": 4,
-        "nb_ties": 0,
-        "nb_wins": 28,
-        "player_name": "boup2424"
-    },
-    {
-        "nb_losses": 22,
-        "nb_ties": 4,
-        "nb_wins": 6,
+        "nb_losses": 13,
+        "nb_ties": 2,
+        "nb_wins": 3,
         "player_name": "braf3002"
     },
     {
-        "nb_losses": 31,
+        "nb_losses": 13,
         "nb_ties": 0,
-        "nb_wins": 1,
-        "player_name": "cadb1801"
+        "nb_wins": 5,
+        "player_name": "dubj1709"
     },
     {
-        "nb_losses": 14,
-        "nb_ties": 4,
-        "nb_wins": 14,
-        "player_name": "carr1913"
+        "nb_losses": 3,
+        "nb_ties": 0,
+        "nb_wins": 15,
+        "player_name": "trug1605"
+    },
+    {
+        "nb_losses": 13,
+        "nb_ties": 0,
+        "nb_wins": 5,
+        "player_name": "rodm2209"
     },
     {
         "nb_losses": 1,
         "nb_ties": 0,
-        "nb_wins": 31,
+        "nb_wins": 17,
         "player_name": "lucm2001"
     },
     {
-        "nb_losses": 18,
+        "nb_losses": 9,
         "nb_ties": 0,
-        "nb_wins": 14,
+        "nb_wins": 9,
         "player_name": "perk1901"
     },
     {
-        "nb_losses": 24,
+        "nb_losses": 2,
         "nb_ties": 0,
-        "nb_wins": 8,
-        "player_name": "rodm2209"
+        "nb_wins": 16,
+        "player_name": "boup2424"
     },
     {
-        "nb_losses": 7,
-        "nb_ties": 0,
-        "nb_wins": 25,
-        "player_name": "trug1605"
+        "nb_losses": 8,
+        "nb_ties": 2,
+        "nb_wins": 8,
+        "player_name": "Secret"
+    },
+    {
+        "nb_losses": 8,
+        "nb_ties": 2,
+        "nb_wins": 8,
+        "player_name": "carr1913"
     },
     {
         "nb_losses": 17,
-        "nb_ties": 4,
-        "nb_wins": 11,
-        "player_name": "Secret"
+        "nb_ties": 0,
+        "nb_wins": 1,
+        "player_name": "cadb1801"
     }
 ]

@@ -1,0 +1,79 @@
+{
+    "moves": [
+        {
+            "column": 6,
+            "message": null,
+            "row": 5,
+            "time": 29.7
+        },
+        {
+            "column": 4,
+            "message": null,
+            "row": 5,
+            "time": 0.1
+        },
+        {
+            "column": 5,
+            "message": null,
+            "row": 5,
+            "time": 29.7
+        },
+        {
+            "column": 5,
+            "message": null,
+            "row": 4,
+            "time": 0.1
+        },
+        {
+            "column": 6,
+            "message": null,
+            "row": 4,
+            "time": 29.6
+        },
+        {
+            "column": 6,
+            "message": null,
+            "row": 3,
+            "time": 0.1
+        },
+        {
+            "column": 7,
+            "message": null,
+            "row": 5,
+            "time": 29.6
+        },
+        {
+            "column": 5,
+            "message": null,
+            "row": 3,
+            "time": 0.1
+        },
+        {
+            "column": 7,
+            "message": null,
+            "row": 4,
+            "time": 29.7
+        },
+        {
+            "column": 7,
+            "message": null,
+            "row": 3,
+            "time": 0.1
+        },
+        {
+            "column": 5,
+            "message": null,
+            "row": 2,
+            "time": 1.4
+        },
+        {
+            "column": 7,
+            "message": null,
+            "row": 2,
+            "time": 0.1
+        }
+    ],
+    "player1": "dubj1709",
+    "player2": "trug1605",
+    "win": false
+}
