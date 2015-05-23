@@ -1,540 +1,540 @@
 [
     {
-        "game_file": "/tournament/data/games/braf3002_dubj1709.json",
+        "game_file": "/data/games/braf3002_dubj1709.json",
         "player1": "braf3002",
         "player2": "dubj1709",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/trug1605_rodm2209.json",
+        "game_file": "/data/games/trug1605_rodm2209.json",
         "player1": "trug1605",
         "player2": "rodm2209",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/lucm2001_dubj1709.json",
+        "game_file": "/data/games/lucm2001_dubj1709.json",
         "player1": "lucm2001",
         "player2": "dubj1709",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/perk1901_boup2424.json",
+        "game_file": "/data/games/perk1901_boup2424.json",
         "player1": "perk1901",
         "player2": "boup2424",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/rodm2209_Secret.json",
+        "game_file": "/data/games/rodm2209_Secret.json",
         "player1": "rodm2209",
         "player2": "Secret",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/dubj1709_carr1913.json",
+        "game_file": "/data/games/dubj1709_carr1913.json",
         "player1": "dubj1709",
         "player2": "carr1913",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/lucm2001_boup2424.json",
+        "game_file": "/data/games/lucm2001_boup2424.json",
         "player1": "lucm2001",
         "player2": "boup2424",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/trug1605_perk1901.json",
+        "game_file": "/data/games/trug1605_perk1901.json",
         "player1": "trug1605",
         "player2": "perk1901",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/lucm2001_rodm2209.json",
+        "game_file": "/data/games/lucm2001_rodm2209.json",
         "player1": "lucm2001",
         "player2": "rodm2209",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/boup2424_trug1605.json",
+        "game_file": "/data/games/boup2424_trug1605.json",
         "player1": "boup2424",
         "player2": "trug1605",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/cadb1801_braf3002.json",
+        "game_file": "/data/games/cadb1801_braf3002.json",
         "player1": "cadb1801",
         "player2": "braf3002",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/cadb1801_lucm2001.json",
+        "game_file": "/data/games/cadb1801_lucm2001.json",
         "player1": "cadb1801",
         "player2": "lucm2001",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/carr1913_Secret.json",
+        "game_file": "/data/games/carr1913_Secret.json",
         "player1": "carr1913",
         "player2": "Secret",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/cadb1801_trug1605.json",
+        "game_file": "/data/games/cadb1801_trug1605.json",
         "player1": "cadb1801",
         "player2": "trug1605",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/Secret_cadb1801.json",
+        "game_file": "/data/games/Secret_cadb1801.json",
         "player1": "Secret",
         "player2": "cadb1801",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/cadb1801_carr1913.json",
+        "game_file": "/data/games/cadb1801_carr1913.json",
         "player1": "cadb1801",
         "player2": "carr1913",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/perk1901_rodm2209.json",
+        "game_file": "/data/games/perk1901_rodm2209.json",
         "player1": "perk1901",
         "player2": "rodm2209",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/braf3002_boup2424.json",
+        "game_file": "/data/games/braf3002_boup2424.json",
         "player1": "braf3002",
         "player2": "boup2424",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/Secret_trug1605.json",
+        "game_file": "/data/games/Secret_trug1605.json",
         "player1": "Secret",
         "player2": "trug1605",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/perk1901_carr1913.json",
+        "game_file": "/data/games/perk1901_carr1913.json",
         "player1": "perk1901",
         "player2": "carr1913",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/braf3002_carr1913.json",
+        "game_file": "/data/games/braf3002_carr1913.json",
         "player1": "braf3002",
         "player2": "carr1913",
         "win": null
     },
     {
-        "game_file": "/tournament/data/games/boup2424_cadb1801.json",
+        "game_file": "/data/games/boup2424_cadb1801.json",
         "player1": "boup2424",
         "player2": "cadb1801",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/braf3002_Secret.json",
+        "game_file": "/data/games/braf3002_Secret.json",
         "player1": "braf3002",
         "player2": "Secret",
         "win": null
     },
     {
-        "game_file": "/tournament/data/games/braf3002_cadb1801.json",
+        "game_file": "/data/games/braf3002_cadb1801.json",
         "player1": "braf3002",
         "player2": "cadb1801",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/perk1901_cadb1801.json",
+        "game_file": "/data/games/perk1901_cadb1801.json",
         "player1": "perk1901",
         "player2": "cadb1801",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/boup2424_perk1901.json",
+        "game_file": "/data/games/boup2424_perk1901.json",
         "player1": "boup2424",
         "player2": "perk1901",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/braf3002_rodm2209.json",
+        "game_file": "/data/games/braf3002_rodm2209.json",
         "player1": "braf3002",
         "player2": "rodm2209",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/dubj1709_perk1901.json",
+        "game_file": "/data/games/dubj1709_perk1901.json",
         "player1": "dubj1709",
         "player2": "perk1901",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/cadb1801_perk1901.json",
+        "game_file": "/data/games/cadb1801_perk1901.json",
         "player1": "cadb1801",
         "player2": "perk1901",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/dubj1709_trug1605.json",
+        "game_file": "/data/games/dubj1709_trug1605.json",
         "player1": "dubj1709",
         "player2": "trug1605",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/trug1605_boup2424.json",
+        "game_file": "/data/games/trug1605_boup2424.json",
         "player1": "trug1605",
         "player2": "boup2424",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/dubj1709_boup2424.json",
+        "game_file": "/data/games/dubj1709_boup2424.json",
         "player1": "dubj1709",
         "player2": "boup2424",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/perk1901_dubj1709.json",
+        "game_file": "/data/games/perk1901_dubj1709.json",
         "player1": "perk1901",
         "player2": "dubj1709",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/perk1901_Secret.json",
+        "game_file": "/data/games/perk1901_Secret.json",
         "player1": "perk1901",
         "player2": "Secret",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/trug1605_carr1913.json",
+        "game_file": "/data/games/trug1605_carr1913.json",
         "player1": "trug1605",
         "player2": "carr1913",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/rodm2209_dubj1709.json",
+        "game_file": "/data/games/rodm2209_dubj1709.json",
         "player1": "rodm2209",
         "player2": "dubj1709",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/lucm2001_cadb1801.json",
+        "game_file": "/data/games/lucm2001_cadb1801.json",
         "player1": "lucm2001",
         "player2": "cadb1801",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/perk1901_trug1605.json",
+        "game_file": "/data/games/perk1901_trug1605.json",
         "player1": "perk1901",
         "player2": "trug1605",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/rodm2209_cadb1801.json",
+        "game_file": "/data/games/rodm2209_cadb1801.json",
         "player1": "rodm2209",
         "player2": "cadb1801",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/boup2424_rodm2209.json",
+        "game_file": "/data/games/boup2424_rodm2209.json",
         "player1": "boup2424",
         "player2": "rodm2209",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/lucm2001_Secret.json",
+        "game_file": "/data/games/lucm2001_Secret.json",
         "player1": "lucm2001",
         "player2": "Secret",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/cadb1801_rodm2209.json",
+        "game_file": "/data/games/cadb1801_rodm2209.json",
         "player1": "cadb1801",
         "player2": "rodm2209",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/trug1605_lucm2001.json",
+        "game_file": "/data/games/trug1605_lucm2001.json",
         "player1": "trug1605",
         "player2": "lucm2001",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/braf3002_trug1605.json",
+        "game_file": "/data/games/braf3002_trug1605.json",
         "player1": "braf3002",
         "player2": "trug1605",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/carr1913_rodm2209.json",
+        "game_file": "/data/games/carr1913_rodm2209.json",
         "player1": "carr1913",
         "player2": "rodm2209",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/perk1901_lucm2001.json",
+        "game_file": "/data/games/perk1901_lucm2001.json",
         "player1": "perk1901",
         "player2": "lucm2001",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/lucm2001_trug1605.json",
+        "game_file": "/data/games/lucm2001_trug1605.json",
         "player1": "lucm2001",
         "player2": "trug1605",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/rodm2209_lucm2001.json",
+        "game_file": "/data/games/rodm2209_lucm2001.json",
         "player1": "rodm2209",
         "player2": "lucm2001",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/cadb1801_boup2424.json",
+        "game_file": "/data/games/cadb1801_boup2424.json",
         "player1": "cadb1801",
         "player2": "boup2424",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/carr1913_boup2424.json",
+        "game_file": "/data/games/carr1913_boup2424.json",
         "player1": "carr1913",
         "player2": "boup2424",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/carr1913_dubj1709.json",
+        "game_file": "/data/games/carr1913_dubj1709.json",
         "player1": "carr1913",
         "player2": "dubj1709",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/boup2424_Secret.json",
+        "game_file": "/data/games/boup2424_Secret.json",
         "player1": "boup2424",
         "player2": "Secret",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/Secret_carr1913.json",
+        "game_file": "/data/games/Secret_carr1913.json",
         "player1": "Secret",
         "player2": "carr1913",
         "win": null
     },
     {
-        "game_file": "/tournament/data/games/dubj1709_Secret.json",
+        "game_file": "/data/games/dubj1709_Secret.json",
         "player1": "dubj1709",
         "player2": "Secret",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/carr1913_lucm2001.json",
+        "game_file": "/data/games/carr1913_lucm2001.json",
         "player1": "carr1913",
         "player2": "lucm2001",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/rodm2209_braf3002.json",
+        "game_file": "/data/games/rodm2209_braf3002.json",
         "player1": "rodm2209",
         "player2": "braf3002",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/rodm2209_perk1901.json",
+        "game_file": "/data/games/rodm2209_perk1901.json",
         "player1": "rodm2209",
         "player2": "perk1901",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/dubj1709_rodm2209.json",
+        "game_file": "/data/games/dubj1709_rodm2209.json",
         "player1": "dubj1709",
         "player2": "rodm2209",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/Secret_braf3002.json",
+        "game_file": "/data/games/Secret_braf3002.json",
         "player1": "Secret",
         "player2": "braf3002",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/braf3002_lucm2001.json",
+        "game_file": "/data/games/braf3002_lucm2001.json",
         "player1": "braf3002",
         "player2": "lucm2001",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/perk1901_braf3002.json",
+        "game_file": "/data/games/perk1901_braf3002.json",
         "player1": "perk1901",
         "player2": "braf3002",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/dubj1709_cadb1801.json",
+        "game_file": "/data/games/dubj1709_cadb1801.json",
         "player1": "dubj1709",
         "player2": "cadb1801",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/lucm2001_carr1913.json",
+        "game_file": "/data/games/lucm2001_carr1913.json",
         "player1": "lucm2001",
         "player2": "carr1913",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/rodm2209_boup2424.json",
+        "game_file": "/data/games/rodm2209_boup2424.json",
         "player1": "rodm2209",
         "player2": "boup2424",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/lucm2001_perk1901.json",
+        "game_file": "/data/games/lucm2001_perk1901.json",
         "player1": "lucm2001",
         "player2": "perk1901",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/carr1913_cadb1801.json",
+        "game_file": "/data/games/carr1913_cadb1801.json",
         "player1": "carr1913",
         "player2": "cadb1801",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/boup2424_dubj1709.json",
+        "game_file": "/data/games/boup2424_dubj1709.json",
         "player1": "boup2424",
         "player2": "dubj1709",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/Secret_rodm2209.json",
+        "game_file": "/data/games/Secret_rodm2209.json",
         "player1": "Secret",
         "player2": "rodm2209",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/carr1913_braf3002.json",
+        "game_file": "/data/games/carr1913_braf3002.json",
         "player1": "carr1913",
         "player2": "braf3002",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/braf3002_perk1901.json",
+        "game_file": "/data/games/braf3002_perk1901.json",
         "player1": "braf3002",
         "player2": "perk1901",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/Secret_boup2424.json",
+        "game_file": "/data/games/Secret_boup2424.json",
         "player1": "Secret",
         "player2": "boup2424",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/Secret_perk1901.json",
+        "game_file": "/data/games/Secret_perk1901.json",
         "player1": "Secret",
         "player2": "perk1901",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/lucm2001_braf3002.json",
+        "game_file": "/data/games/lucm2001_braf3002.json",
         "player1": "lucm2001",
         "player2": "braf3002",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/rodm2209_carr1913.json",
+        "game_file": "/data/games/rodm2209_carr1913.json",
         "player1": "rodm2209",
         "player2": "carr1913",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/dubj1709_braf3002.json",
+        "game_file": "/data/games/dubj1709_braf3002.json",
         "player1": "dubj1709",
         "player2": "braf3002",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/trug1605_Secret.json",
+        "game_file": "/data/games/trug1605_Secret.json",
         "player1": "trug1605",
         "player2": "Secret",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/boup2424_lucm2001.json",
+        "game_file": "/data/games/boup2424_lucm2001.json",
         "player1": "boup2424",
         "player2": "lucm2001",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/cadb1801_dubj1709.json",
+        "game_file": "/data/games/cadb1801_dubj1709.json",
         "player1": "cadb1801",
         "player2": "dubj1709",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/trug1605_cadb1801.json",
+        "game_file": "/data/games/trug1605_cadb1801.json",
         "player1": "trug1605",
         "player2": "cadb1801",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/trug1605_braf3002.json",
+        "game_file": "/data/games/trug1605_braf3002.json",
         "player1": "trug1605",
         "player2": "braf3002",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/cadb1801_Secret.json",
+        "game_file": "/data/games/cadb1801_Secret.json",
         "player1": "cadb1801",
         "player2": "Secret",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/trug1605_dubj1709.json",
+        "game_file": "/data/games/trug1605_dubj1709.json",
         "player1": "trug1605",
         "player2": "dubj1709",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/boup2424_carr1913.json",
+        "game_file": "/data/games/boup2424_carr1913.json",
         "player1": "boup2424",
         "player2": "carr1913",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/Secret_dubj1709.json",
+        "game_file": "/data/games/Secret_dubj1709.json",
         "player1": "Secret",
         "player2": "dubj1709",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/boup2424_braf3002.json",
+        "game_file": "/data/games/boup2424_braf3002.json",
         "player1": "boup2424",
         "player2": "braf3002",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/carr1913_trug1605.json",
+        "game_file": "/data/games/carr1913_trug1605.json",
         "player1": "carr1913",
         "player2": "trug1605",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/carr1913_perk1901.json",
+        "game_file": "/data/games/carr1913_perk1901.json",
         "player1": "carr1913",
         "player2": "perk1901",
         "win": true
     },
     {
-        "game_file": "/tournament/data/games/dubj1709_lucm2001.json",
+        "game_file": "/data/games/dubj1709_lucm2001.json",
         "player1": "dubj1709",
         "player2": "lucm2001",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/rodm2209_trug1605.json",
+        "game_file": "/data/games/rodm2209_trug1605.json",
         "player1": "rodm2209",
         "player2": "trug1605",
         "win": false
     },
     {
-        "game_file": "/tournament/data/games/Secret_lucm2001.json",
+        "game_file": "/data/games/Secret_lucm2001.json",
         "player1": "Secret",
         "player2": "lucm2001",
         "win": false
